@@ -37,4 +37,6 @@
 
 ### 🎯 Пример
 
-#### Ввод:
+#### Ввод: python Payroll-Systems.py 
+or 
+run the python file 
